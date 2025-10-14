@@ -212,7 +212,6 @@
           "artifact": {
             "size": 312,
             "url": "https://github.com/mchdistro/BigStarSuyangGwan/raw/main/servers/BigStarSuyangGwan-1.21.4/files/config/iris.properties",
-            "MD5": "2fb287c07c7c9a64553e5057a9b3d9f6",
             "path": "config/iris.properties"
           }
         },
@@ -224,6 +223,17 @@
             "size": 265,
             "url": "https://github.com/mchdistro/BigStarSuyangGwan/raw/main/servers/BigStarSuyangGwan-1.21.4/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 215,
+            "url": "https://github.com/mchdistro/BigStarSuyangGwan/raw/main/servers/BigStarSuyangGwan-1.21.4/files/servers.dat",
+            "MD5": "ce0c32b378e3e4622b8fff19c0495a5b",
+            "path": "servers.dat"
           }
         },
         {
