@@ -1,0 +1,26 @@
+{
+  "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/BigStarSuyangGwan/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "큰별수양관",
+    "description": "Minecraft 1.21.4 (Fabric v0.17.3)",
+    "icon": "https://github.com/mchdistro/BigStarSuyangGwan/raw/main/server-icon.png",
+    "address": "큰별.서버.한국",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.17.3"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["options.txt", "shaderpacks/**.txt", "config/iris.properties"]
+    }
+  ]
+}
