@@ -5,7 +5,7 @@
     "name": "큰별수양관",
     "description": "Minecraft 1.21.4 (Fabric v0.17.3)",
     "icon": "https://github.com/mchdistro/BigStarSuyangGwan/raw/main/server-icon.png",
-    "address": "큰별.서버.한국",
+    "address": "큰별.서버.한국:31898",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",

@@ -13,7 +13,7 @@
       "description": "Minecraft 1.21.4 (Fabric v0.17.3)",
       "icon": "https://github.com/mchdistro/BigStarSuyangGwan/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "큰별.서버.한국",
+      "address": "큰별.서버.한국:31898",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -232,7 +232,7 @@
           "artifact": {
             "size": 215,
             "url": "https://github.com/mchdistro/BigStarSuyangGwan/raw/main/servers/BigStarSuyangGwan-1.21.4/files/servers.dat",
-            "MD5": "ce0c32b378e3e4622b8fff19c0495a5b",
+            "MD5": "2abfe12c1211acbd1064d8c42c6eed35",
             "path": "servers.dat"
           }
         },
