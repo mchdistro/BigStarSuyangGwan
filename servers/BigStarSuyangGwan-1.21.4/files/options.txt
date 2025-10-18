@@ -1,4 +1,5 @@
 version:4189
+entityDistanceScaling:3.5
 narrator:0
 autoJump:false
 resourcePacks:["vanilla","fabric"]

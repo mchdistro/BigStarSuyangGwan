@@ -220,7 +220,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 265,
+            "size": 292,
             "url": "https://github.com/mchdistro/BigStarSuyangGwan/raw/main/servers/BigStarSuyangGwan-1.21.4/files/options.txt",
             "path": "options.txt"
           }
