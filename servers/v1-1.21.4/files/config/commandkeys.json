@@ -1,0 +1,166 @@
+{
+  "version": 6,
+  "profiles": [
+    {
+      "version": 4,
+      "name": "Default Profile",
+      "links": [],
+      "addToHistory": "OFF",
+      "showHudMessage": "OFF",
+      "resumeRepeating": "OFF",
+      "useRatelimit": "ON",
+      "macros": [
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.r",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/forcereload",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.c",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/shootmodechange",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.y",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/accept",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.u",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/deny",
+              "delayTicks": 0
+            }
+          ]
+        },
+        {
+          "version": 6,
+          "addToHistory": false,
+          "showHudMessage": false,
+          "resumeRepeating": false,
+          "useRatelimit": true,
+          "conflictStrategy": "SUBMIT",
+          "sendMode": "SEND",
+          "activationType": "HOLD",
+          "spaceTicks": 0,
+          "keybind": {
+            "version": 0,
+            "keyName": "key.keyboard.right.bracket",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "altKeybind": {
+            "version": 0,
+            "keyName": "key.keyboard.unknown",
+            "limitKeyName": "key.keyboard.unknown"
+          },
+          "messages": [
+            {
+              "version": 1,
+              "string": "/hudonoff",
+              "delayTicks": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "spDefault": 0,
+  "mpDefault": 0,
+  "defaultConflictStrategy": "SUBMIT",
+  "defaultSendMode": "SEND",
+  "defaultActivationType": "HOLD",
+  "ratelimitCount": 4,
+  "ratelimitTicks": 20,
+  "ratelimitStrict": false,
+  "ratelimitSp": false,
+  "lengthLimitLength": 256
+}
